@@ -1,0 +1,136 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BSTStudentRecords",
+      "request": "launch",
+      "mainClass": "BSTStudentRecords",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "SortingProducts",
+      "request": "launch",
+      "mainClass": "SortingProducts",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "AVLTree",
+      "request": "launch",
+      "mainClass": "AVLTree",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchLibrary",
+      "request": "launch",
+      "mainClass": "BinarySearchLibrary",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "PageReplacement",
+      "request": "launch",
+      "mainClass": "PageReplacement",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "MemoryAllocation",
+      "request": "launch",
+      "mainClass": "MemoryAllocation",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "CircularLinkedList",
+      "request": "launch",
+      "mainClass": "CircularLinkedList",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "StackLinkedList",
+      "request": "launch",
+      "mainClass": "StackLinkedList",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "SinglyLinkedList",
+      "request": "launch",
+      "mainClass": "SinglyLinkedList",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "LinearQueue",
+      "request": "launch",
+      "mainClass": "LinearQueue",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "InfixToPostfix",
+      "request": "launch",
+      "mainClass": "InfixToPostfix",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "BrowserHistoryDemo",
+      "request": "launch",
+      "mainClass": "BrowserHistoryDemo",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "TwoD",
+      "request": "launch",
+      "mainClass": "TwoD",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "Java+DSA_7810e8ac"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/vishw/OneDrive/Desktop/New folder (2)/Java+DSA",
+      "program": "c:/Users/vishw/OneDrive/Desktop/New folder (2)/Java+DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
